@@ -48,7 +48,7 @@ I'm a Computer Engineering student at the University of Jaffna, passionate about
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sitheek-mohamed-arsath/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@your-medium](https://medium.com/@arsathcomeng))
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arsathcomeng)
 
 
 ### 🌟 Leadership & Activities
