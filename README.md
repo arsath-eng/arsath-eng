@@ -9,7 +9,7 @@
 I'm a Computer Engineering student at the University of Jaffna, passionate about Machine Learning, AI, and Full-Stack Development. 
 
 ### 🎓 Education
-- B.Sc.Eng in Computer Engineering (Hons) - University of Jaffna (Expected: February 2026)
+- B.Sc.Eng in Computer Engineering (Hons) - University of Jaffna (Expected: September 2025)
 
 
 ### 🛠️ Tech Stack
